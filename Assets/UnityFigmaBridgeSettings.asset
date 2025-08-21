@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119c1bd3601648f28a252a6030e067b6, type: 3}
   m_Name: UnityFigmaBridgeSettings
   m_EditorClassIdentifier: 
-  DocumentUrl: https://www.figma.com/design/TWK6B440yCan1n2QTgeZ5u/Aftertale--Letter-Game-?node-id=0-1&p=f&t=0IEkXyshYQOTXf8I-0
-  BuildPrototypeFlow: 1
+  DocumentUrl: https://www.figma.com/design/0VJjHTnVecMSFmAmiqW7rK/Aftertale--Copy-?node-id=2014-15&t=61TotT9UGgvCrkML-0
+  BuildPrototypeFlow: 0
   RunTimeAssetsScenePath: Assets/Scenes/SampleScene.unity
   EnableAutoLayout: 0
   ScreenBindingNamespace: 
-  ServerRenderImageScale: 3
+  ServerRenderImageScale: 1
   EnableGoogleFontsDownloads: 1
   CreateScreenNameCSharpFile: 0
   GenerateNodesMarkedForExport: 1
-  OnlyImportSelectedPages: 1
+  OnlyImportSelectedPages: 0
   PageDataList:
   - Name: Page 1
     NodeId: 0:1
