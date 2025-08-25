@@ -2189,7 +2189,7 @@ MonoBehaviour:
   - animator: {fileID: 2118752845}
     triggerName: Frame7FadeInTrigger
     clipName: Frame7FadeIn
-    delayAfter: 1
+    delayAfter: 0.2
     fadeInWithCanvasGroup: 0
   - animator: {fileID: 1902128873}
     triggerName: PenWritingTrigger
