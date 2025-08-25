@@ -10,7 +10,7 @@ public class ReorderableList : MonoBehaviour
 
     void Start()
     {
-        PopulateList();
+ //       PopulateList();
     }
 
     void PopulateList()

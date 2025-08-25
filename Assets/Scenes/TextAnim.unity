@@ -284,7 +284,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mohei wassup wassup man. I don't back down, I don't back out.
+  m_text: Additionally to what Simon said, we did find an issue with the Code Editor
+    Package for Visual Studio that could cause regressions in domain reload times
+    in 21.1 and 21.2.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -588,7 +590,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This town is wow wow wow wow wow ow wow ow wowow wo wo w wow! Amazing!
+  m_text: "If you\u2019re using the VS Package, please try and update it to version
+    2.0.9 to see if that improves the situation. There are further fixes on their
+    way in the upcoming version 2.0.10."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f6a155106885004e9af427ebb177ee0, type: 2}
   m_sharedMaterial: {fileID: 471156319656653387, guid: 8f6a155106885004e9af427ebb177ee0, type: 2}
@@ -678,5 +682,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textMesh: {fileID: 1870091747}
-  letterDelay: 0.008
-  fadeDuration: 0.06
+  delayBeforeStart: 1
+  letterDelay: 0.03
+  fadeDuration: 0.3
